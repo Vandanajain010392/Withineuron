@@ -1,4 +1,4 @@
-## This is the Git Tutorials by vandana
+## This is the amazing Git Tutorials by developer2 branch
 ## learning with ineuron
 ## for commit
 ## fgshgfsnvjhfdghsfkgg
